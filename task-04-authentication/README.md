@@ -289,3 +289,7 @@ Invalid authentication token:
 ## Conclusion
 
 This project implements authentication and authorization for the Student Management REST API using FastAPI, JWT, password hashing, and role-based access control.
+
+
+
+## Screenshots
