@@ -1,0 +1,62 @@
+{
+    "report_name": "Pending Fee Report",
+    "generated_at": "2026-09-05 14:35:18",
+    "total_pending": 5,
+    "payments": [
+        {
+            "id": 1,
+            "student_id": 1,
+            "total_course_fee": 50000.0,
+            "registration_fee": 5000.0,
+            "amount_paid": 10000.0,
+            "balance": 35000.0,
+            "payment_date": "2026-09-04",
+            "payment_status": "pending",
+            "installment_number": null
+        },
+        {
+            "id": 2,
+            "student_id": 1,
+            "total_course_fee": 50000.0,
+            "registration_fee": 5000.0,
+            "amount_paid": 10000.0,
+            "balance": 35000.0,
+            "payment_date": "2026-09-04",
+            "payment_status": "pending",
+            "installment_number": null
+        },
+        {
+            "id": 3,
+            "student_id": 1,
+            "total_course_fee": 50000.0,
+            "registration_fee": 5000.0,
+            "amount_paid": 10000.0,
+            "balance": 35000.0,
+            "payment_date": "2026-09-04",
+            "payment_status": "pending",
+            "installment_number": null
+        },
+        {
+            "id": 4,
+            "student_id": 3,
+            "total_course_fee": 50000.0,
+            "registration_fee": 5000.0,
+            "amount_paid": 10000.0,
+            "balance": 35000.0,
+            "payment_date": "2026-09-04",
+            "payment_status": "pending",
+            "installment_number": 1
+        },
+        {
+            "id": 5,
+            "student_id": 3,
+            "total_course_fee": 50000.0,
+            "registration_fee": 5000.0,
+            "amount_paid": 10000.0,
+            "balance": 35000.0,
+            "payment_date": "2026-09-04",
+            "payment_status": "pending",
+            "installment_number": 3
+        }
+    ]
+}

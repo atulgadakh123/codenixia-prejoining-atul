@@ -1,0 +1,56 @@
+{
+    "report_name": "Student Activity Report",
+    "generated_at": "2026-09-05 14:35:18",
+    "total_students": 7,
+    "students": [
+        {
+            "id": 3,
+            "name": "sthring",
+            "email": "user@example.com",
+            "phone": "2265849106",
+            "course": "string"
+        },
+        {
+            "id": 4,
+            "name": "ddfd",
+            "email": "ffr@gmail.com",
+            "phone": "45872",
+            "course": "strin"
+        },
+        {
+            "id": 7,
+            "name": "stfggfring",
+            "email": "usghevcr@example.com",
+            "phone": "6802643680",
+            "course": "stxcring"
+        },
+        {
+            "id": 9,
+            "name": "string",
+            "email": "ujser@example.com",
+            "phone": "6083317160",
+            "course": "string"
+        },
+        {
+            "id": 11,
+            "name": "string",
+            "email": "usjer@example.com",
+            "phone": "8533839496",
+            "course": "string"
+        },
+        {
+            "id": 12,
+            "name": "string",
+            "email": "usehr@example.com",
+            "phone": "7655176096",
+            "course": "string"
+        },
+        {
+            "id": 13,
+            "name": "string",
+            "email": "userh@example.com",
+            "phone": "0814451093",
+            "course": "string"
+        }
+    ]
+}
